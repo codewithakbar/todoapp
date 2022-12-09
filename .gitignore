@@ -1,0 +1,5 @@
+migrations
+venv
+
+# node
+node_modules
